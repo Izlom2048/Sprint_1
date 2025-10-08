@@ -1,1 +1,1 @@
-# Ya_practicum
+# Sprint_1
